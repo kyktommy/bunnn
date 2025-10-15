@@ -1,0 +1,7 @@
+{
+  "name": "@bunnn/monopro",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
