@@ -1,11 +1,15 @@
 {
   "name": "@bunnn/utils",
-  "dependencies": {},
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-use": "^17.6.0"
+  },
   "module": "index.ts",
   "type": "module",
   "private": true,
   "devDependencies": {
-    "@types/bun": "latest"
+    "@types/bun": "latest",
+    "@types/react": "^19.2.2"
   },
   "peerDependencies": {
     "typescript": "^5"
